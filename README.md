@@ -18,3 +18,14 @@ Here are the font-awesome icons we will be using. Just insert them in your marku
 <i class="fab fa-instagram"></i>
 ```
 
+### Pseudo-element
+```css
+.section-title::after {
+    content: "";
+    display: block;
+    width: 60px;
+    height: 3px;
+    margin-top: 10px;
+    background: #FFE600;
+}
+```
