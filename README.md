@@ -12,7 +12,17 @@ The starter HTML file already has the necessary includes for the required font a
 
 Here are the font-awesome icons we will be using. Just insert them in your markup where you want them to appear.
 
+### Background Images
+
+These are the properties that you will need to use for the background image
+
+* background-image
+* background-position
+* background-size
+
 ### Using Font-awesome Icons
+
+This is how you add a font-awesome icon to your markup.
 ```html
 <i class="fab fa-facebook-square"></i>
 <i class="fab fa-twitter"></i>
@@ -20,6 +30,9 @@ Here are the font-awesome icons we will be using. Just insert them in your marku
 ```
 
 ### Pseudo-element
+
+This is how you add the pseudo-element to create an underline.
+
 ```css
 .section-title::after {
     content: "";
