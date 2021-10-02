@@ -12,6 +12,7 @@ The starter HTML file already has the necessary includes for the required font a
 
 Here are the font-awesome icons we will be using. Just insert them in your markup where you want them to appear.
 
+### Using Font-awesome Icons
 ```html
 <i class="fab fa-facebook-square"></i>
 <i class="fab fa-twitter"></i>
