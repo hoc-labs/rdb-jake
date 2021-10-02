@@ -41,5 +41,7 @@ This is how you add the pseudo-element to create an underline.
     height: 3px;
     margin-top: 10px;
     background: #FFE600;
+    margin-left: auto;
+    margin-right: auto;
 }
 ```
